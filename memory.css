@@ -1,0 +1,12 @@
+.tiles{
+    width:18%;
+    margin:5px 1%;
+    float: left;
+    height: 200px;
+    background-color: green;
+}
+
+#start, #reset{
+    display: block;
+    margin:3px 0;
+}
